@@ -3,5 +3,6 @@
 
         <project path="zspirengine" remote="origin" name="zspirengine" revision="master" />
         <project path="zsgamedit" remote="origin" name="zsgamedit" revision="master" />
+        <project path="zspire-build" remote="maxim" name="zspire-build" revision="master" />
 
 </manifest>

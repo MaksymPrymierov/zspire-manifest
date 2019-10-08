@@ -3,6 +3,8 @@
 
         <remote name="origin"
                 fetch="https://github.com/Cvostr" />
+        <remote name="maxim"
+                fetch="https://github.com/MaksymPrymierov" />
 
         <include name="projects.xml" />
 
