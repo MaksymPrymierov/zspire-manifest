@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+        <project path="zspirengine" remote="origin" name="zspirengine" revision="master" />
+        <project path="zsgamedit" remote="origin" name="zsgamedit" revision="master" />
+
+</manifest>
